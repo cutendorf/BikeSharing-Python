@@ -1,2 +1,2 @@
-# Bikesharing
-Bikes haring demand forecast using Python
+# Bike sharing
+Bike sharing demand forecast using Python
